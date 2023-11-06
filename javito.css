@@ -1,0 +1,19 @@
+#container{
+    background-color: aqua;
+    color: orange;
+    width: 60%;
+    display: flex;
+}
+.div{
+    width: 40%;
+    height: 100px;
+}
+.elso{
+    background-color: red;
+}
+.masodik{
+    background-color: purple;
+}
+.harmadik{
+    background-color: yellow;
+}
